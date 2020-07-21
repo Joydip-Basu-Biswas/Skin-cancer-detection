@@ -1,4 +1,5 @@
 # Skin Cancer Detection
+# CNN
 
 by Joydip Basu Biswas - joydipj528@gmail.com
 
