@@ -1,4 +1,4 @@
-Skin Cancer Detection
+# Skin Cancer Detection
 
 by Joydip Basu Biswas - joydipj528@gmail.com
 
