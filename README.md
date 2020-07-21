@@ -49,21 +49,21 @@ In this project I will try to predict 2 different classes of moles using Convolu
 
 In this kernel I have followed following 14 steps for model building and evaluation which are as follows:
 
-•	Importing Essential Libraries
+   •	Importing Essential Libraries
 
-•	Data Augmentation
+   •	Data Augmentation
 
-•	Import Data and split into training and test set
+   •	Import Data and split into training and test set
 
-•	Model Building
+   •	Model Building
 
-•	Fitting into the mode
+   •	Fitting into the mode
 
-•	Summarize history for accuracy
+   •	Summarize history for accuracy
 
-•	Summarize history for loss
+   •	Summarize history for loss
 
-•	 Prediction
+   •	 Prediction
 
 
 
